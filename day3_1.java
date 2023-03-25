@@ -1,3 +1,6 @@
+
+// Find the area of square
+
 import java.util.Scanner;
 class day3_1 {
     public static void main(String [] args){

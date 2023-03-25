@@ -1,3 +1,6 @@
+
+//Find the area of rectangle
+
 import java.util.Scanner;
 class day3_2 {
     public static void main(String [] args){
