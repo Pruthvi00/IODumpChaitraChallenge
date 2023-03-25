@@ -2,7 +2,7 @@
 // Find largest number and smallest number between given 5 numbers .
 
 import java.util.Scanner;
-class day1 {
+class Main {
     public static void main(String[] args) {
         int arr[] = new int[5];
         Scanner sc = new Scanner(System.in);
